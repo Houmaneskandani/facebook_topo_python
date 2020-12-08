@@ -42,7 +42,7 @@ users in the group.
 16. Change TCP: Change the underlying TCP variant to New Reno and CUBIC.
 17. Enable/Disable ECN: Enable and disable support for ECN at the switch 1.
 18. Simulate congestion: Create congestion in the network using extra ping messages from
-clients to server. You can also simulate loss as discussed in Lab-7.
+clients to server.
 19. Measure Response time: Measure response time for different scenarios discussed above.
 The response time in this case is the time when a message is sent from a client to the time
 when the actual recipient receives it. Provide justification for the difference in response
