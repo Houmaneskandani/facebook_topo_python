@@ -3,6 +3,6 @@
 three client nodes and implement a simple Facebook application on top of this topology using a
 client - server model. Clients run client codes to make use of the capabilities they are provided
 with and the server is responsible for authenticating users, receiving posts and messages from
-users and sending them to the proper intended recipient
+users and sending them to the proper intended recipient.  The topology i used is looks like this:
 
 
