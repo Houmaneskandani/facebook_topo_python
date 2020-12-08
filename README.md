@@ -4,11 +4,13 @@
 three client nodes and implement a simple Facebook application on top of this topology using a
 client - server model. Clients run client codes to make use of the capabilities they are provided
 with and the server is responsible for authenticating users, receiving posts and messages from
-users and sending them to the proper intended recipient.  The topology i used is looks like this:
+users and sending them to the proper intended recipient. The topology is shown in the picture below:
 
 ![alt text](https://github.com/jthak002/fb-python/blob/master/topol.png)
 
-## functionality
+## Run command
+ ' ddh
+## Functionality
 1. Whenever a user connects to the server, they should be asked for their username and
 password.
 2. Username should be entered as clear text but passwords should not (should be either
