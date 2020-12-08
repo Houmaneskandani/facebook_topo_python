@@ -9,7 +9,7 @@ users and sending them to the proper intended recipient. The topology is shown i
 ![alt text](https://github.com/jthak002/fb-python/blob/master/topol.png)
 
 ## Run command
- The command for running the topology is: 
+ * The command for running the topology is: 
  ```sudo mn --custom finalTopol.py --topo mytopo -x```
 ## Functionality
 1. Whenever a user connects to the server, they should be asked for their username and
